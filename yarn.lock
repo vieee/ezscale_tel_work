@@ -2318,6 +2318,11 @@ prop-types@15.7.2, prop-types@^15.7.2:
     object-assign "^4.1.1"
     react-is "^16.8.1"
 
+pspdfkit@^2021.4.2:
+  version "2021.4.2"
+  resolved "https://registry.yarnpkg.com/pspdfkit/-/pspdfkit-2021.4.2.tgz#771bb79228607698201c46645c0fd44f0f8bae50"
+  integrity sha512-7eS/qXch4azzqf5EoaTuXTTBnXIHuQlEnS36jo20OjWks7o2dU86FrCyCnPOwQN/oIs4Lnk2roG1o6s6Qr/zKQ==
+
 public-encrypt@^4.0.0:
   version "4.0.3"
   resolved "https://registry.yarnpkg.com/public-encrypt/-/public-encrypt-4.0.3.tgz#4fcc9d77a07e48ba7527e7cbe0de33d0701331e0"
