@@ -12,7 +12,7 @@ const More = () => {
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <p className={styles.p}>More About Us</p>
-            <iframe width="738" height="415" className={styles.iframe} src="https://youtu.be/T7XAAvEFUiw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe width="738" height="415" src="https://www.youtube.com/embed/T7XAAvEFUiw" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
         </>
     )
 }
