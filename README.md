@@ -36,7 +36,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 - Cross platform
 - Fast Loading
 - Responsive
-- 
+ 
 
   
 ## Badges
