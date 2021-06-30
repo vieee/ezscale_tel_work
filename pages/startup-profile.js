@@ -13,7 +13,6 @@ export default function Startup() {
       await PSPDFKit.load({
         container,
         document: "/profile.pdf",
-        licenseKey: process.env.PSPDFKIT_LICENSE_KEY,
         baseUrl: `${window.location.protocol}//${window.location.host}/`,
       });
     })();
