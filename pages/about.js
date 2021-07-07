@@ -1,5 +1,6 @@
 import styles from '../styles/HomePage.module.css'
 import Head from 'next/head'
+import Image from 'next/image'
 
 const About = () => {
     return (
@@ -30,7 +31,41 @@ const About = () => {
 
                 <b>Rajat</b>, <b>Harshita</b> and <b>Deepak</b> started EZScale to solve one problem – make the internet a trustworthy place for a business to grow.
             </p>
-
+            <div className={styles.pics}>
+                <div className={styles.person}>
+                    <Image alt="" src="/rajat.jpeg" className={styles.picture} />
+                    <div>
+                        <h2 className={styles.name}>Rajat Shenoy</h2>
+                        <h3 className={styles.title}>CTO</h3>
+                        <ul className={styles.ul}>
+                            <li>10 years post MBA experience in Strategy &amp; Finance (Monitor Group, Merrill Lynch Investment)</li>
+                            <li>B.Tech., SPIT, Mumbai</li>
+                        </ul>
+                    </div>
+                </div>
+                <div className={styles.person}>
+                    <Image alt="" src="/harshita.jpeg" className={styles.picture} />
+                    <div>
+                        <h2 className={styles.name}>Harshita Lakhotiya</h2>
+                        <h3 className={styles.title}>CEO</h3>
+                        <ul className={styles.ul}>
+                            <li>10 years post MBA experience in Strategy &amp; Finance (Monitor Group, Merrill Lynch Investment)</li>
+                            <li>B.Tech., SPIT, Mumbai</li>
+                        </ul>
+                    </div>
+                </div>
+                <div className={styles.person}>
+                    <Image alt="" src="/deepak.jpeg" className={styles.picture} />
+                    <div>
+                        <h2 className={styles.name}>Deepak Yadav</h2>
+                        <h3 className={styles.title}>CFO</h3>
+                        <ul className={styles.ul}>
+                            <li>10 years post MBA experience in Strategy &amp; Finance (Monitor Group, Merrill Lynch Investment)</li>
+                            <li>B.Tech., SPIT, Mumbai</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
             <p className={styles.p}>
                 EZScale started with Payment Links – a simple URL that one can copy and paste anywhere on the internet and receive payments online via any payment mode.
                 Today, we provide more than just an efficient payments solution. EZScale makes custom-tailored business tools to help a business grow on the internet.
