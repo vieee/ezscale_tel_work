@@ -5,19 +5,21 @@ Our startup website. Made as a part of our Technology Entrepreneurship Lab.
 
 ## Demo
 
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/1.png)
-
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/2.png)
-
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/21.png) 
-
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/3.png)
-
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/4.png)
-
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/5.png)
-
-![pic1](https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/6.png)
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/1.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/2.png" width="47%" /> 
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/21.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/3.png" width="47%" /> 
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/4.png" width="47%" />
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/5.png" width="47%" /> 
+</p>
+<p float="left">
+  <img src="https://raw.githubusercontent.com/vieee/ezscale_tel_work/main/public/6.png" width="95%" />
+</p>
 
 ## Installation 
 
