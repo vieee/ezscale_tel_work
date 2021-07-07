@@ -49,7 +49,7 @@ const About = () => {
                         <h2 className={styles.name}>Harshita Lakhotiya</h2>
                         <h3 className={styles.title}>CEO</h3>
                         <ul className={styles.ul}>
-                            <li>10 years post MBA experience in Strategy &amp; Finance (Monitor Group, Merrill Lynch Investment)</li>
+                            <li>12 years post CFA experience in Learning &amp; Machine (Monitor Group, Baker Hughes Investment)</li>
                             <li>B.Tech., SPIT, Mumbai</li>
                         </ul>
                     </div>
@@ -60,8 +60,8 @@ const About = () => {
                         <h2 className={styles.name}>Deepak Yadav</h2>
                         <h3 className={styles.title}>CFO</h3>
                         <ul className={styles.ul}>
-                            <li>10 years post MBA experience in Strategy &amp; Finance (Monitor Group, Merrill Lynch Investment)</li>
-                            <li>B.Tech., SPIT, Mumbai</li>
+                            <li>10 years post MBA experience in Strategy &amp; Finance (AWS-API Group, Goldman Sachs Investment)</li>
+                            <li>B.Tech., SPIT, Mumbai</li>                              
                         </ul>
                     </div>
                 </div>
