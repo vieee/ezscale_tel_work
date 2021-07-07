@@ -1,7 +1,7 @@
 html,
 body {
   @import url(https://use.fontawesome.com/releases/v5.0.6/css/all.css);
-  @import url(https://fonts.googleapis.com/css?family=Oswald:400|Raleway:400,700,400italic,700italic);
+  @import url(https://fonts.googleapis.com/css?family=Oswald:400|Raleway:100,400,700,400italic,700italic);
   padding: 0;
   margin: 0;
   height: 100%;

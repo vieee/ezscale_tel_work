@@ -28,7 +28,7 @@ const About = () => {
             <p className={styles.p}>
 
 
-                Rajat, Harshita and Deepak started EZScale to solve one problem – make the internet a trustworthy place for a business to grow.
+                <b>Rajat</b>, <b>Harshita</b> and <b>Deepak</b> started EZScale to solve one problem – make the internet a trustworthy place for a business to grow.
             </p>
 
             <p className={styles.p}>

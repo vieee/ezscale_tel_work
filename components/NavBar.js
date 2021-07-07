@@ -14,7 +14,7 @@ export default function NavBar({children}) {
                         <li><Link className={styles.a} href="/about">About</Link></li>
                         <li><Link className={styles.a} href="/startup-profile">Startup Profile</Link></li>
                         <li><Link className={styles.a} href="/brochure">Brochure</Link></li>
-                        <li><Link className={styles.a} href="/more-about-us">More About Us</Link></li>
+                        <li><Link className={styles.a} href="/more-about-us">Video</Link></li>
                         <li><Link className={styles.a} href="/careers">Careers</Link></li>
                         <li><Link className={styles.a} href="/contact-us">Contact Us</Link></li>
                     </ul>
