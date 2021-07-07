@@ -33,7 +33,7 @@ const About = () => {
             </p>
             <div className={styles.pics}>
                 <div className={styles.person}>
-                    <Image alt="" src="/rajat.jpeg" className={styles.picture} />
+                    <Image alt="" src="/rajat.jpeg" className={styles.picture} width="90px" height="90px" />
                     <div>
                         <h2 className={styles.name}>Rajat Shenoy</h2>
                         <h3 className={styles.title}>CTO</h3>
@@ -44,7 +44,7 @@ const About = () => {
                     </div>
                 </div>
                 <div className={styles.person}>
-                    <Image alt="" src="/harshita.jpeg" className={styles.picture} />
+                    <Image alt="" src="/harshita.jpeg" className={styles.picture} width="90px" height="90px" />
                     <div>
                         <h2 className={styles.name}>Harshita Lakhotiya</h2>
                         <h3 className={styles.title}>CEO</h3>
@@ -55,7 +55,7 @@ const About = () => {
                     </div>
                 </div>
                 <div className={styles.person}>
-                    <Image alt="" src="/deepak.jpeg" className={styles.picture} />
+                    <Image alt="" src="/deepak.jpeg" className={styles.picture} width="90px" height="90px" />
                     <div>
                         <h2 className={styles.name}>Deepak Yadav</h2>
                         <h3 className={styles.title}>CFO</h3>
@@ -66,15 +66,7 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            <p className={styles.p}>
-                EZScale started with Payment Links – a simple URL that one can copy and paste anywhere on the internet and receive payments online via any payment mode.
-                Today, we provide more than just an efficient payments solution. EZScale makes custom-tailored business tools to help a business grow on the internet.
-            </p>
 
-            <p className={styles.p}>
-                We are the “Operating System” your business needs. We are here to help you grow.
-
-            </p>
         </>
     )
 }

@@ -167,6 +167,10 @@
   margin-left: 0.5rem;
 }
 
+.mgn {
+  margin-top: 3rem;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;

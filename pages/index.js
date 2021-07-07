@@ -21,6 +21,15 @@ export default function Home() {
             <p className={styles.p}>
             Our products and features are built to give every business the complete eCommerce experience. Small businesses from all over India use EZScale online stores and EZScale payment gateway to sell online.
             </p>
+            <p className={`${styles.p} ${styles.mgn}`}>
+                EZScale started with Payment Links – a simple URL that one can copy and paste anywhere on the internet and receive payments online via any payment mode.
+                Today, we provide more than just an efficient payments solution. EZScale makes custom-tailored business tools to help a business grow on the internet.
+            </p>
+
+            <p className={styles.p}>
+                We are the “Operating System” for your business needs. We are here to help you grow.
+
+            </p>
              {/*<iframe className={styles.iframe} width="460" height="275" src="https://www.youtube.com/embed/CQIGQ40MkVU" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>*/}
       {/* <main className={styles.main}> */}
       {/* <h1 className={styles.title}>
